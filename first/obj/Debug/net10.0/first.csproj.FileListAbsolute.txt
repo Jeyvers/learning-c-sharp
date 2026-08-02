@@ -1,0 +1,14 @@
+/Users/Jeyvers/Documents/Code/Learning/C#/first/bin/Debug/net10.0/first
+/Users/Jeyvers/Documents/Code/Learning/C#/first/bin/Debug/net10.0/first.deps.json
+/Users/Jeyvers/Documents/Code/Learning/C#/first/bin/Debug/net10.0/first.runtimeconfig.json
+/Users/Jeyvers/Documents/Code/Learning/C#/first/bin/Debug/net10.0/first.dll
+/Users/Jeyvers/Documents/Code/Learning/C#/first/bin/Debug/net10.0/first.pdb
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.AssemblyInfoInputs.cache
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.AssemblyInfo.cs
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.csproj.CoreCompileInputs.cache
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.dll
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/refint/first.dll
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.pdb
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.genruntimeconfig.cache
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/ref/first.dll
