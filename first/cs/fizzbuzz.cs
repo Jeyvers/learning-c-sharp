@@ -1,4 +1,10 @@
-﻿Console.WriteLine("");
+namespace FizzBuzzApp;
+
+public class FizzBuzz
+{
+    public static void Run()
+    {
+Console.WriteLine("");
 
 for(int i = 1; i <= 15; i++)
 {
@@ -20,4 +26,4 @@ for(int i = 1; i <= 15; i++)
         Console.WriteLine(i);
         
     }
-}
+}}}

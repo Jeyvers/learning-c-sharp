@@ -12,3 +12,4 @@
 /Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.pdb
 /Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.genruntimeconfig.cache
 /Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/ref/first.dll
+/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/Debug/net10.0/first.sourcelink.json
