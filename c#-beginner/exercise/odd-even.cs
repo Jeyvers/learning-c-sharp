@@ -22,8 +22,8 @@ namespace OddEven
             } 
 
             // (i % 2 == 0 ? evenNumbers : oddNumbers).Add(i); Nice!!!
-            Console.WriteLine(string.Join("," , evenNumbers));
-            Console.WriteLine(string.Join("," , oddNumbers));
+            Console.WriteLine(string.Join(", " , evenNumbers));
+            Console.WriteLine(string.Join(", " , oddNumbers));
         }
     }
 }
