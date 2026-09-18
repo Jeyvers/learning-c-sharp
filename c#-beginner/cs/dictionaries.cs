@@ -27,6 +27,7 @@ namespace Dicts
             // to escape runtime error in case this value doesn't exist, we do
             if(teachers.TryGetValue("Math", out string? mathTeacher))
             {
+                // containskey
                 Console.Write(mathTeacher);
             }
 
