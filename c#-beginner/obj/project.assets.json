@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Jeyvers/Documents/Code/Learning/C#/first/first.csproj",
+      "projectUniqueName": "/Users/Jeyvers/Documents/Code/Learning/C#/c#-beginner/first.csproj",
       "projectName": "first",
-      "projectPath": "/Users/Jeyvers/Documents/Code/Learning/C#/first/first.csproj",
+      "projectPath": "/Users/Jeyvers/Documents/Code/Learning/C#/c#-beginner/first.csproj",
       "packagesPath": "/Users/Jeyvers/.nuget/packages/",
-      "outputPath": "/Users/Jeyvers/Documents/Code/Learning/C#/first/obj/",
+      "outputPath": "/Users/Jeyvers/Documents/Code/Learning/C#/c#-beginner/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Jeyvers/.nuget/NuGet/NuGet.Config"
