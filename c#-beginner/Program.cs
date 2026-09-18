@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("");
 
-Dicts.Program.Run();
+OddEven.Program.Run();
