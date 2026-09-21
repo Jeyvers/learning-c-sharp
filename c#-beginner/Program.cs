@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("");
 
-OddEven.Program.Run();
+TwoInt.Program.Run();
