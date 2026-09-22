@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("");
 
-TriangleArea.Program.Run();
+SumIntArray.Program.Run();
