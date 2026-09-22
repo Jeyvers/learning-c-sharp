@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("");
 
-TwoInt.Program.Run();
+TriangleArea.Program.Run();
