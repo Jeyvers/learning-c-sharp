@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("");
 
-SumIntArray.Program.Run();
+CustomTryParse.Program.Run();
